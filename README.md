@@ -1,0 +1,1 @@
+Praesident 6320 aka VEB Robotron Soemmerda 6313, a 9-pin dot matrix printer. Sold to western countries as 'Praesident'. This series can use different interface modules - it was exported with Commodore serial bus module.
